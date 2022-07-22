@@ -1,4 +1,4 @@
-# Project Title: HackerEarth:Customer Segmentation
+# Project Title - HackerEarth:Customer Segmentation
 
 ## Customer Segmentation vs Marketing Campaign
 
