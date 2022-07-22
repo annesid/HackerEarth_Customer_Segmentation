@@ -26,6 +26,8 @@ Sequential model (with 3 hidden layers) used in this project.
 
 Snippet on Tensorboard clipping. Can't get enough? Run it yourself! Go on! Don't be shy! :D
 
+If you have an idea to improve the model, you are welcome to contribute to the code. Hit me up!
+
 <img width="523" alt="tensorboard_customer_segmentation" src="https://user-images.githubusercontent.com/106498393/180406360-06b99b47-4771-4875-888c-3c92c68e9b24.png">
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
