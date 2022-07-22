@@ -20,7 +20,6 @@ The purpose of marketing campaign is to collect customer’s needs and overall s
 You can download the data from the link provided and execute the code in this repo:
 * customer_training
 * customer_modules
-* customer_deploy
 
 Sequential model (with 3 hidden layers) used in this project.
 ![model](https://user-images.githubusercontent.com/106498393/180406016-1afc1446-94f4-4ddf-a70d-01d8d01e03a8.png)
