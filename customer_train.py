@@ -85,7 +85,7 @@ for i in cat:
         temp = df[i]
         temp[temp.notnull()] = le.fit_transform(temp[df[i].notnull()])
         df[i] = pd.to_numeric(df[i],errors='coerce')
-        PICKLE_SAVE_PATH = os.path.join(os.getcwd(),'mmodel',i+'_encoder.pkl')
+        PICKLE_SAVE_PATH = os.path.join(os.getcwd(),'model',i+'_encoder.pkl')
         with open(PICKLE_SAVE_PATH,'wb') as file:
             pickle.dump(le,file)
             
